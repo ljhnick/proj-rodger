@@ -90,3 +90,4 @@ fastlane/test_output
 iOSInjectionProject/
 
 opencv2.framework/
+/opencv2.framework/
